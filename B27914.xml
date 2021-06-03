@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Peace concluded and trade revived in an honourable peace betwixt the English and Dutch, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27914</idno><idno type="EEBO-CITATION">99886668</idno>
+  <idno type="VID">186972</idno>
+  <idno type="EEBO-PROQUEST">2240889097</idno>
+  
+            <idno type="STC">Wing P920</idno>
+            <idno type="STC">Interim Tract Supplement Guide Lutt.III[96]</idno>
+            <idno type="STC">ESTC R226345</idno>
+            <idno type="PROQUEST">ocm99886668</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886668e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27914)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186972)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C6:1[98])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Peace concluded and trade revived in an honourable peace betwixt the English and Dutch, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Peter Lillicrap,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Hail happy peace, which doth in one cement".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Netherlands --  Foreign relations --  England --  Poetry --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Poetry --  Early works to 1800.</term>
+               <term type="geographic_name">England --  Foreign relations --  Netherlands --  Poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:186972:1"/>
+            <head>PEACE CONCLUDED AND TRADE REVIVED IN An Honourable Peace betwixt the English and Dutch, &amp;c.</head>
+            <epigraph>
+               <q>
+                  <lg>
+                     <l>Vnited now in one, all discords cease,</l>
+                     <l>The Gentrys quiet, Farmers joy, and Trades encrease.</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <lg>
+               <l>HAil happy peace, which doth in one Cement</l>
+               <l>Divided Islands to the Contenent;</l>
+               <l>Making the aire more clear, weather more pleasant</l>
+               <l>Sweet Angel, beauty, Sacred Peace, Heavens present</l>
+               <l>Patron of Arts, of good the special spring;</l>
+               <l>All hail (dear Peace) which so much good doest bring,</l>
+            </lg>
+            <lg>
+               <l>O that I had a quill pluckt from the wing.</l>
+               <l>Of <hi>Venus</hi> Doves, how I thy praise would sing.</l>
+               <l>Sweet sacred Peace, who can enough thee praise,</l>
+               <l>Which to an Iron age bringst golden dayes.</l>
+               <l>The Drum's now silenced, <hi>Bellona</hi> is fled,</l>
+               <l>And hurtfull Arms a happy Peace has bred:</l>
+               <l>Plenty and Peace do kindly kiss each other,</l>
+               <l>And <hi>Mars</hi> appeas'd sits down by <hi>Cupids</hi> Mother</l>
+               <l>The thundring Cannon which did use ro roare,</l>
+               <l>And ring alarums to the neighbouring shore,</l>
+               <l>Shall now no more discharge their murdering shot</l>
+               <l>And make such store of flesh the fishes lot.</l>
+               <l>No more shall the shrill Trumpet sound the knell,</l>
+               <l>And unto thousands be the passing Bell;</l>
+               <l>Muskets and pikes shall both neglected lye,</l>
+               <l>And more by <hi>Venus</hi> then by <hi>Mars</hi> shall dye.</l>
+            </lg>
+            <lg>
+               <l>Trades men rejoyce, whole streams of wealth shall flow,</l>
+               <l>Into your shops, such good from Peace doth grow.</l>
+               <l>
+                  <hi>London</hi> now ruinous shall mount his head,</l>
+               <l>Whose fame through all the worlds great Orbe shall spread,</l>
+               <l>Peace bringeth Plenty, Plenty buildings raises,</l>
+               <l>Who then of peace can speak sufficient praises.</l>
+            </lg>
+            <lg>
+               <l>Now <hi>Belgia</hi> and <hi>Albion</hi> shake hands.</l>
+               <l>Strongly conjoyn'd together in Loves bands,</l>
+               <l>Bones broken, joyn'd together stronger grow,</l>
+               <l>I hope <hi>England</hi> and <hi>Holland</hi> will do so.</l>
+            </lg>
+            <lg>
+               <l>Of killing Swords who might first Author be</l>
+               <l>Sure a steel heart and bloody mind had he,</l>
+               <l>Mankinds destruction so to bring about</l>
+               <l>And Death with bloody horror to find out;</l>
+               <l>More lovely Peace which sheweth no such things,</l>
+               <l>But all content with proffit to us brings.</l>
+            </lg>
+            <lg>
+               <l>And now <hi>Phanaticks</hi> who did hope to rise</l>
+               <l>By our devisions, see where your hopes now lies?</l>
+               <l>Henceforth learn to obey, seek not to mount</l>
+               <l>By others fall, you fall by that account;</l>
+               <l>In vain ye think by Jelousies and fears</l>
+               <l>To sett's again together by the ears</l>
+               <l>For this we know for truth assuredly</l>
+               <l>If Forraign Warrs be bad; Civil worse be;</l>
+               <l>They are a Stem of a most Viperous brood,</l>
+               <l>Whose sole delight is in their Countries blood;</l>
+               <l>Base bloody <hi>Canniballs,</hi> whose hungry Zeal</l>
+               <l>Devours heir Countries welfare at a meal.</l>
+               <l>But now I hope those dismal Clouds are past,</l>
+               <l>Which our <hi>Horizon</hi> late so overcast:</l>
+               <l>Peace and her handmaid plenty both attend</l>
+               <l>Our happy Coasts, good luck on us to send,</l>
+               <l>And may all those who at our Peace repine</l>
+               <l>On misery and affliction sup and dine.</l>
+               <l>All those who at this Prayer snapps or snarls,</l>
+               <l>I wish unto them all this curse of <hi>Quarls.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That all the World may hear them curse and cry</l>
+               <l>Who loves no Peace, in Peace shall never die.</l>
+            </lg>
+            <p>With Allowance.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed by <hi>Peter Lillycrap,</hi> 1667.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
